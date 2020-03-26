@@ -1,2 +1,3 @@
 class PracticesController < ApplicationController
 end
+ApplicationController
